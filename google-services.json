@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078247000517",
+    "project_id": "disaterresilience",
+    "storage_bucket": "disaterresilience.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078247000517:android:f9b719b66ab0b7ef1a63ac",
+        "android_client_info": {
+          "package_name": "com.aditi.disasterm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg36hjPjC5jKA2T7Ju5chMM9uTN5mAGWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
